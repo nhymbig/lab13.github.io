@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav-brand {
+  text-decoration: none;
+  color: white;
+}
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://wallpaperaccess.com/full/1135533.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://cdnb.artstation.com/p/assets/images/images/029/170/831/large/mario-abou-samra-bifrost-final-render.jpg?1596665619);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://wallpaperaccess.com/full/1135533.jpg);
+}
